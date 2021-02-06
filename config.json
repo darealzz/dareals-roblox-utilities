@@ -1,0 +1,11 @@
+{
+    "interval_by_seconds": {
+        "NOTE": "THIS DOES NOT APPLY TO HELL JACKS LETTER MESSAGE, ONLY THE WORD ONE || WE DON'T ADVISE CHANGING THESE CUZ THEN IT JUST LOOKS SUS",
+        "less_than_or_equal_to_10": 0.1,
+        "less_than_or_equal_to_20": 0.05,
+        "more_than_20_less_than_100": 0.02,
+        "more_than_100": 0.015
+    },
+    "interval_after_sending_single_helljack_letter": 0.42,
+    "groups_to_check_ranks": []
+}
